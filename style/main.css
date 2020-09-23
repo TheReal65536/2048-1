@@ -518,7 +518,7 @@ hr {
   .tile.tile-super .tile-inner {
     color: #f9f6f2;
     background: #000000;
-    box-shadow: 0 0 30px 29px rgba(0, 0, 0, 1), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
+    box-shadow: 0 0 30px 30px rgba(0, 0, 0, 1), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
     font-size: 4px; }
     @media screen and (max-width: 520px) {
       .tile.tile-super .tile-inner {
