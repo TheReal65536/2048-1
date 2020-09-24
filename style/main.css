@@ -518,11 +518,11 @@ hr {
   .tile.tile-super .tile-inner {
     color: #f9f6f2;
     background: #000000;
-    box-shadow: 0 0 30px 30px rgba(0, 0, 0, 1), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
-    font-size: 4px; }
+    box-shadow: 0 0 30px 40px rgba(0, 0, 0, 1), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
+    font-size: 3px; }
     @media screen and (max-width: 520px) {
       .tile.tile-super .tile-inner {
-        font-size: 4px; } }
+        font-size: 2px; } }
   .tile.tile-1 .tile-inner {
     background: #eaeaea;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
@@ -920,6 +920,86 @@ hr {
     @media screen and (max-width: 520px) {
       .tile.tile-9007199254740992 .tile-inner {
         font-size: 5px; } }
+  .tile.tile-18014398509481984 .tile-inner {
+    color: #000000;
+    background: #efffec;
+    box-shadow: 0 0 30px 30px rgba(240, 255, 240, 1), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
+    font-size: 4px; }
+    @media screen and (max-width: 520px) {
+      .tile.tile-18014398509481984 .tile-inner {
+        font-size: 4px; } }
+  .tile.tile-36028797018963970 .tile-inner {
+    color: #000000;
+    background: #a6ffa1;
+    box-shadow: 0 0 30px 31px rgba(240, 255, 240, 1), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
+    font-size: 4px; }
+    @media screen and (max-width: 520px) {
+      .tile.tile-36028797018963970 .tile-inner {
+        font-size: 4px; } }
+  .tile.tile-72057594037927940 .tile-inner {
+    color: #000000;
+    background: #87ff84;
+    box-shadow: 0 0 30px 32px rgba(230, 255, 229, 1), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
+    font-size: 4px; }
+    @media screen and (max-width: 520px) {
+      .tile.tile-72057594037927940 .tile-inner {
+        font-size: 4px; } }
+  .tile.tile-144115188075855870 .tile-inner {
+    color: #000000;
+    background: #42ff42;
+    box-shadow: 0 0 30px 33px rgba(230, 255, 229, 1), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
+    font-size: 3px; }
+    @media screen and (max-width: 520px) {
+      .tile.tile-144115188075855870 .tile-inner {
+        font-size: 3px; } }
+  .tile.tile-288230376151711740 .tile-inner {
+    color: #000000;
+    background: #00ff00;
+    box-shadow: 0 0 30px 34px rgba(230, 255, 229, 1), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
+    font-size: 3px; }
+    @media screen and (max-width: 520px) {
+      .tile.tile-288230376151711740 .tile-inner {
+        font-size: 3px; } }
+  .tile.tile-576460752303423500 .tile-inner {
+    color: #000000;
+    background: #00b500;
+    box-shadow: 0 0 30px 35px rgba(141, 255, 141, 1), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
+    font-size: 3px; }
+    @media screen and (max-width: 520px) {
+      .tile.tile-576460752303423500 .tile-inner {
+        font-size: 3px; } }
+  .tile.tile-1152921504606847000 .tile-inner {
+    color: #000000;
+    background: #800000;
+    box-shadow: 0 0 30px 36px rgba(255, 0, 0, 1), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
+    font-size: 3px; }
+    @media screen and (max-width: 520px) {
+      .tile.tile-1152921504606847000 .tile-inner {
+        font-size: 3px; } }
+  .tile.tile-2305843009213694000 .tile-inner {
+    color: #000000;
+    background: #ad0000;
+    box-shadow: 0 0 30px 37px rgba(255, 4, 4, 1), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
+    font-size: 3px; }
+    @media screen and (max-width: 520px) {
+      .tile.tile-2305843009213694000 .tile-inner {
+        font-size: 3px; } }
+  .tile.tile-4611686018427388000 .tile-inner {
+    color: #000000;
+    background: #c80000;
+    box-shadow: 0 0 30px 38px rgba(255, 10, 10, 1), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
+    font-size: 3px; }
+    @media screen and (max-width: 520px) {
+      .tile.tile-4611686018427388000 .tile-inner {
+        font-size: 3px; } }
+  .tile.tile-9223372036854776000 .tile-inner {
+    color: #000000;
+    background: #ff0000;
+    box-shadow: 0 0 30px 39px rgba(255, 16, 16, 1), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
+    font-size: 3px; }
+    @media screen and (max-width: 520px) {
+      .tile.tile-9223372036854776000 .tile-inner {
+        font-size: 3px; } }
 
 @-webkit-keyframes appear {
   0% {
